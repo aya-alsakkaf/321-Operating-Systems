@@ -1,0 +1,5 @@
+2
+Burst   Arrival Priority
+20  0   3
+10	3   2
+30	7   1
